@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding-top: 60px;
+  }
+
+.card-body {
+    font-family: Arial, sans-serif;
+    background-color: #343a40;
+    color: white;
+    font-size: 20px;
+  }
+
+  .mb-5 {
+    color: lightcoral;
+  }
